@@ -3,7 +3,7 @@
  <img src="https://github.com/enzobert/enzobert/blob/main/287338-min.jpg"> 
 
 <h2>Testeur logiciel<h2>
- <p>En formation de testeur logiciel je cherche un travail pour me faire ... </p> 
+ <p>En formation de testeur logiciel je cherche un travail pour ... </p> 
   
  <img src="https://github.com/enzobert/enzobert/blob/main/argent.jpeg">   
   
